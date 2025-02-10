@@ -1,22 +1,80 @@
-## Olá! eu sou o Matheus Frederico 👋
+# 👨🏾‍💻 Matheus Frederico
 
-Me chamo Matheus Frederico,tenho 19 anos e moro no Rio de Janeiro,Atualmente estou cursando Engenharia de Software na Estácio.Sou Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+**`Desenvolvedor Front-End`**
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-10b11633a/)
+Me chamo Matheus Frederico dos Santos, tenho 19 anos e sou do Rio de Janeiro. Atualmente estou cursando Engenharia de Software na Estácio. Sou Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusFredericods&show_icons=true&theme=dracula)
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=matheusFredericods&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+/>
+<img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusFredericods&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
+</p>
 
 
-
-## Linguagens e Tecnologias
-
-<div style="display:inline_block"><br/>
-    <img align-itens="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align-itens="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align-itens="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align-itens="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align-itens="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
-    
-
-</div>
+          
+          
+          
