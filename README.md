@@ -62,7 +62,6 @@ Me chamo Matheus Frederico dos Santos, tenho 19 anos e sou do Rio de Janeiro. At
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=matheusFredericods&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
