@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Matheus Frederico dos Santos, tenho 19 anos e sou do Rio de Janeiro. Atualmente estou cursando Engenharia de Software na Estácio. Sou Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+Me chamo Matheus Frederico dos Santos, tenho 20 anos e sou do Rio de Janeiro. Atualmente estou cursando Engenharia de Software na Estácio. Sou Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 
 ---
 
