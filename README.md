@@ -1,6 +1,6 @@
 # Hi, I'm Matheus 👋
 
-**Front-End Developer focused on building modern and responsive web applications.**
+**Full Stack Developer focused on building modern and responsive web applications.**
 
 ---
 ## 🛠️ Tech Stack
